@@ -4,6 +4,31 @@
 
 <br/>
 
+<br/>
+
+<table width="100%" align="center" border="0">
+  <tr>
+    <td align="center" bgcolor="#0b1220">
+      <br/>
+      <sub><b><font color="#67e8f9">A NOTE ON RESILIENCE</font></b></sub>
+      <br/><br/>
+      <h3><em>No matter how deep the bruise,</em></h3>
+      <h3><em>if the heart still beats,</em></h3>
+      <h3><em>someday, it will heal again.</em></h3>
+      <br/>
+      <sub><font color="#fbbf24">━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━</font></sub>
+      <br/><br/>
+      <h3><em>No matter how painful the mind,</em></h3>
+      <h3><em>if you never give up,</em></h3>
+      <h3><em>someday, you will see the twilight.</em></h3>
+      <br/>
+      <sub><font color="#67e8f9">STILL HERE. STILL HEALING. STILL BECOMING.</font></sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=720&height=45&lines=Engineering+the+journey+from+field+data+to+insight;Building+reliable+geospatial+backends;LiDAR+%E2%80%A2+PostGIS+%E2%80%A2+Async+Pipelines+%E2%80%A2+3D+Web" alt="Engineering focus" />
 </a>
